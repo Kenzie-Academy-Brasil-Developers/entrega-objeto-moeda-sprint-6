@@ -1,0 +1,21 @@
+body {
+    max-width: 1000px;
+    display: flex;
+    justify-content: center;
+}
+
+div-mae {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 635px;
+    justify-content: center;
+}
+
+div {
+    border-style: double;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
