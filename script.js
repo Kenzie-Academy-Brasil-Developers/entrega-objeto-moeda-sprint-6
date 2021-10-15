@@ -47,6 +47,8 @@ function display20Flips() {
     body.innerText = `display20Flips: ${results.join(", ").toString()}`
     return results
 }
+console.log(display20Flips())
+
 
 function display20Images() {
     const results = [];
@@ -55,3 +57,4 @@ function display20Images() {
     }
     return results
 }
+console.log(display20Images())
